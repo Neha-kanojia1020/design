@@ -11,7 +11,7 @@ const Download = () => {
                             <h5>Download App</h5>
                             <h3 className="pt-2">Get started in seconds</h3>
                             <p className="py-4 pe-md-5 pe-lg-5">Quickly connect to tools and services such as Google Analytics. Intercom or Github to track, measure and optimize performance.</p>
-                            <div className="banner-button d-flex justify-content-start gap-3">
+                            <div className="banner-button d-flex justify-content-start gap-3  download-button">
                                 <button className="btn btn-dark btnappstore d-flex align-middle gap-3 align-items-center">
                                     <i className="fab fa-apple fa-2x"></i>
                                     <div className="btn-text download-button">

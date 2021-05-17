@@ -81,6 +81,15 @@ body {
     color:#616368;
 }
 
+@media (min-width:320px) and (max-width:375px){
+    .content p{
+        width:auto;
+    }
+    .download-button {
+        flex-direction: column;
+    }
+}
+
 
 @media (min-width:768px) and (max-width:1024px){
     .content p{
@@ -94,6 +103,8 @@ body {
     }
     
 }
+
+
 @media (min-width:375px) and (max-width:812px){
     .content p{
         width:auto;
